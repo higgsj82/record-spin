@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    margin: auto;
+    height: 10vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    display: block;
+    padding-bottom: 18px;
+    background-color: rgb(242, 182, 51);
+}
+
+button {
+    height: 40px;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(196, 18, 190);
+}
+
+button:hover {
+    background-color: 255, 120, 250;
+}
