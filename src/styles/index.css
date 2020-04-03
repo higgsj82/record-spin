@@ -1,11 +1,12 @@
-h1 {
+.title {
     text-align: center;
-    margin: auto;
+    margin: unset;
     height: 10vh;
+    width: 700px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 70px;
     display: block;
-    padding-bottom: 18px;
+    /* padding-bottom: 18px; */
     background-color: rgb(242, 182, 51);
 }
 

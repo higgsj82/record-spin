@@ -8,7 +8,7 @@ let button;
 let audio;
 
 function setup() {
-    createCanvas(windowWidth - 20, windowHeight * .85);
+    createCanvas(700, 600);
     button = createButton('Restart Game');
     button.position(23, height + 50);
     button.mousePressed(restartGame);
